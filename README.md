@@ -1,2 +1,12 @@
 # Full-Stack-WebDev21
-Html, Css, JavaScript, and something on the backend (php or python or nodejs). Modern stuff mainly.
+<p>
+  <ul>
+    <li>Html5</li>
+    <li>Css3</li>
+    <li>JavaScript</li>
+    <li>Python3</li>
+    <li>Flask</li>
+    <li>React</li>
+    <li>mySQL</li>
+  </ul>
+</p>
