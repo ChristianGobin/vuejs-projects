@@ -4,9 +4,6 @@
     <li>Html5</li>
     <li>Css3</li>
     <li>JavaScript</li>
-    <li>Python3</li>
-    <li>Flask</li>
     <li>React</li>
-    <li>mySQL</li>
   </ul>
 </p>
