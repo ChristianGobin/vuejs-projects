@@ -1,9 +1,12 @@
 # Full-Stack-WebDev21
 <p>
-  <ul>
-    <li>Html5</li>
-    <li>Css3</li>
-    <li>JavaScript</li>
-    <li>React</li>
-  </ul>
+  <dl>
+    <dt>Html5</dt>
+    <dt>Css3</dt>
+    <dt>JavaScript</dt>
+    <dt>React</dt>
+    <dt>Bootstrap</dt>
+    <dt>JQuery</dt>
+    <dt>Node.js</dt>
+  </dl>
 </p>
